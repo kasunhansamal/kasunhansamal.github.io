@@ -1,3 +1,3 @@
 This is a simple portolio written in HTML and CSS
 
-#https://kasunhansamal.github.io
+[Visit](https://kasunhansamal.github.io)
