@@ -1,0 +1,45 @@
+.hero-image {
+    width: 50rem;
+    border-radius: 5%;
+    height: auto;
+    max-width: 100%;
+}
+
+.hero-color {
+    background-color: #2d142c;
+}
+
+.skills-color {
+    background-color: #510a32;
+}
+
+.project-color {
+    background-color: #801336;
+}
+
+.exp-color {
+    background-color: #ee4540;
+}
+
+.foot-color{
+    background-color: #white;
+}
+.title-color {
+    background-color: white;
+}
+
+.progress-color{
+    colo
+}
+
+.white-color {
+    color:white;
+}
+
+.linkedin-color{
+    color:#0077b5;
+}
+
+.twitter-color{
+    color: #1DA1F2;
+}
